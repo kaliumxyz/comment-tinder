@@ -1,0 +1,19 @@
+{
+  "name": "comment-tinder",
+  "version": "0.1.0",
+  "description": "a simple cli tool for keeping yourself in check, add it as a git hook :D",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaliumxyz/comment-tinder.git"
+  },
+  "author": "kaliumxyz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaliumxyz/comment-tinder/issues"
+  },
+  "homepage": "https://github.com/kaliumxyz/comment-tinder#readme"
+}

@@ -1,4 +1,4 @@
-#!/usr/bin/node
+#!/usr/bin/env node
 'use strict';
 let file = process.argv[2];
 const fs = require('fs');
